@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=900&size=350&pause=1000&color=9D2E45&background=FFFFFF01&center=true&vCenter=true&width=4235&height=550&lines=Spencer+Kelly;A.K.A+Flapjacck)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=900&size=250&pause=1000&color=9D2E45&background=FFFFFF01&center=true&vCenter=true&width=4235&height=300&lines=Spencer+Kelly;A.K.A+Flapjacck)](https://git.io/typing-svg)
 
 # 🖍️ About Me:
 
