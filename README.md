@@ -11,19 +11,18 @@
 <table style="border: none;">
   <tr>
     <td align="center" style="border: none;">
-      <img src="https://projectpokemon.org/images/shiny-sprite/zoroark.gif" alt="Shiny zoroark">
+      <img src="https://projectpokemon.org/images/shiny-sprite/tyrantrum.gif" alt="Shiny tyrantrum">
     </td>
     <td align="center" style="border: none;">
       <img src="https://github-readme-stats.vercel.app/api?username=flapjacck&show_icons=true&theme=tokyonight&title_color=ffffff&hide_border=true&locale=en" width="400">
     </td>
     <td align="center" style="border: none;">
-      <img src="https://projectpokemon.org/images/shiny-sprite/zygarde.gif" alt="Shiny zygarde">
+      <img src="https://projectpokemon.org/images/shiny-sprite/sylveon.gif" alt="Shiny sylveon">
     </td>
   </tr>
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGlmODhsbWF5ZmlrcW04bDhma3loNjRxNmJ3dGxjd2xtcmx5dnltbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qRJyqHV5qlqCV6qnFy/giphy.gif" width="80">
 </table>
 
-<img src="https://komarev.com/ghpvc/?username=Flapjacck&label=Profile%20views&color=blueviolet&style=for-the-badge&base=1143" alt="Flapjacck" />
+<img src="https://komarev.com/ghpvc/?username=Flapjacck&label=Profile%20views&color=blue&style=for-the-badge&base=1143" alt="Flapjacck" />
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
