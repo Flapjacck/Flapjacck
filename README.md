@@ -1,6 +1,6 @@
 <div align="right">
 
-Third Year cs at wlu. Learning n shi
+Learning n shi
 
 
 # Tech Stack:
