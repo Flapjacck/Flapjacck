@@ -8,7 +8,7 @@ seeking employment
   
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=d4d9d0&color=da5346) 
 
-<img width="300" height="200"  src="https://projectpokemon.org/images/shiny-sprite/trevenant.gif" alt="Shiny scizor.gif"> <br>
+<img width="200" height="200"  src="https://projectpokemon.org/images/shiny-sprite/trevenant.gif" alt="Shiny scizor.gif"> <br>
 
 <img src="https://komarev.com/ghpvc/?username=Flapjacck&label=Profile%20views&color=da5346&style=for-the-badge&base=1143" alt="Flapjacck" />
 </div>
