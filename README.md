@@ -2,15 +2,15 @@
 
 seeking employment
 
-  
+
 # Tech Stack:
 
   
-![Python](https://img.shields.io/badge/Google_Sheets-3670A0?style=for-the-badge&logo=googlesheets&logoColor=d4d9d0&color=8295d1) 
+![Honda](https://img.shields.io/badge/Honda_Civic-fffff?style=for-the-badge&logo=honda&logoColor=ffffff&color=e884a7) 
 
-<img width="200" height="200"  src="https://projectpokemon.org/images/shiny-sprite/vanilluxe.gif" alt="Shiny vanilluxe.gif"> <br>
+<img width="200" height="200"  src="https://projectpokemon.org/images/shiny-sprite/lilligant.gif" alt="Shiny Lilligant.gif"> <br>
 
-<img src="https://komarev.com/ghpvc/?username=Flapjacck&label=Profile%20views&color=8295d1&style=for-the-badge&base=1143" alt="Flapjacck" />
+<img src="https://komarev.com/ghpvc/?username=Flapjacck&label=Profile%20views&color=e884a7&style=for-the-badge&base=1143" alt="Flapjacck" />
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
